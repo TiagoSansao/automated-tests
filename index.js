@@ -9,5 +9,7 @@ function subtraction(a, b) {
 function multiply(a, b) {
   return a * b;
 }
+// fon trab
+
 
 module.exports = {sum, multiply, subtraction};
